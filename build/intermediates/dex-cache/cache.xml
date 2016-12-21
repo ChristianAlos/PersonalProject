@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/macbookproretina/Desktop/Proyecto/PersonalProjectWork/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="787871951412550519b0222aba3c9df4cea49875">
+        <dex dex="/Users/macbookproretina/Desktop/Proyecto/PersonalProjectWork/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.1.1_0a293f40a4fee0268625961aa8ae613b8b24a6c7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbookproretina/Desktop/Proyecto/PersonalProjectWork/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/Users/macbookproretina/Desktop/Proyecto/PersonalProjectWork/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-8.4.0_405809aec7cb53b628861c930fd2dc952fa4f97d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbookproretina/Desktop/Proyecto/PersonalProjectWork/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="/Users/macbookproretina/Desktop/Proyecto/PersonalProjectWork/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-8.4.0_b51ca0c76313af85a28f4a340da9cbbdd3046d24/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbookproretina/Desktop/Proyecto/PersonalProjectWork/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/macbookproretina/Desktop/Proyecto/PersonalProjectWork/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_dc212feba105e37fe027c8d28bc0db72440e2ef7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbookproretina/Desktop/Proyecto/PersonalProjectWork/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/Users/macbookproretina/Desktop/Proyecto/PersonalProjectWork/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-8.4.0_07d1b82365edc7c49aa803ae6973f77761f8a8d9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbookproretina/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.1.1/support-annotations-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="/Users/macbookproretina/Desktop/Proyecto/PersonalProjectWork/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.1.1_4f0f69a7aa103ef0bbc909ec5fef01c1767be9c0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbookproretina/Desktop/Proyecto/PersonalProjectWork/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="/Users/macbookproretina/Desktop/Proyecto/PersonalProjectWork/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.1.1_225dfad6c6180b084a8348743a38f662ebc54593/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbookproretina/Desktop/Proyecto/PersonalProjectWork/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/macbookproretina/Desktop/Proyecto/PersonalProjectWork/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_c398e1745b92815d1ba7ca8c6a8bd95aa7942aaa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbookproretina/Desktop/Proyecto/PersonalProjectWork/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="/Users/macbookproretina/Desktop/Proyecto/PersonalProjectWork/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.1.1_fbae4c08f16233389ff58df5d6ff0234328e61bf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbookproretina/Desktop/Proyecto/PersonalProjectWork/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/macbookproretina/Desktop/Proyecto/PersonalProjectWork/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_c1353ce90da51eeaa6b84cf8bf5722b00590333d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbookproretina/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-alpha4/constraint-layout-solver-1.0.0-alpha4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a882fef6a6b9e3efbb0b6b001895a5fc7c35b391">
+        <dex dex="/Users/macbookproretina/Desktop/Proyecto/PersonalProjectWork/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.0-alpha4_975d79bd54c81ff042690dd3f08dbcbb423fd8e4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbookproretina/Desktop/Proyecto/PersonalProjectWork/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.0-alpha4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="affe29a90a2a709bfd2b8d6411aa99c05a2be96f">
+        <dex dex="/Users/macbookproretina/Desktop/Proyecto/PersonalProjectWork/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support.constraint-constraint-layout-1.0.0-alpha4_461db702c2e2d77c9a00e1ae6fdf5c7d9c61dbca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbookproretina/Desktop/Proyecto/PersonalProjectWork/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="58c207f61ce53a280c2c122e30b59544a091c05c">
+        <dex dex="/Users/macbookproretina/Desktop/Proyecto/PersonalProjectWork/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b8ed9da39ec2324f8225e61c3c2563edff59213c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbookproretina/Desktop/Proyecto/PersonalProjectWork/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9890c6430dc1aa3f19afa0cf6e9e67402fbca1d2">
+        <dex dex="/Users/macbookproretina/Desktop/Proyecto/PersonalProjectWork/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_7e6ad7bd533d2b0316e41aa7dc17a4e09d2741b2/classes.dex" />
+    </item>
+
+</items>
